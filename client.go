@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/tab/smartid/internal/config"
-	"github.com/tab/smartid/internal/errors"
-	"github.com/tab/smartid/internal/utils"
+	"github.com/proDeveloperGuru/smartid/internal/config"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/utils"
 )
 
 const (

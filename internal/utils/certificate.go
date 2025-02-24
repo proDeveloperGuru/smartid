@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/tab/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
 )
 
 var (
