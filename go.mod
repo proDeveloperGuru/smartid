@@ -16,4 +16,4 @@ require (
 )
 
 
-replace github.com/tab/smartid => github.com/proDeveloperGuru/smartid v0.0.1
+replace github.com/tab/smartid => github.com/proDeveloperGuru/smartid v0.1.1
