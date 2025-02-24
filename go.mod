@@ -14,3 +14,6 @@ require (
 	golang.org/x/net v0.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+
+replace github.com/tab/smartid => github.com/proDeveloperGuru/smartid v0.0.1
