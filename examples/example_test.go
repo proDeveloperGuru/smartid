@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/prodeveloperguru/smartid"
+	"github.com/proDeveloperGuru/smartid"
 )
 
 func Example_CreateSession() {

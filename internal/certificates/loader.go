@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/prodeveloperguru/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
 )
 
 const CertExtension = ".pem"

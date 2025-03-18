@@ -1,4 +1,4 @@
-module github.com/prodeveloperguru/smartid
+module github.com/proDeveloperGuru/smartid
 
 go 1.23
 

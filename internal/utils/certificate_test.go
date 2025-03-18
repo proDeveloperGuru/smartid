@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/prodeveloperguru/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
 )
 
 func Test_Certificate_Extract(t *testing.T) {

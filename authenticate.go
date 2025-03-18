@@ -5,9 +5,9 @@ import (
 	e "errors"
 	"fmt"
 
-	"github.com/prodeveloperguru/smartid/internal/errors"
-	"github.com/prodeveloperguru/smartid/internal/requests"
-	"github.com/prodeveloperguru/smartid/internal/utils"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/requests"
+	"github.com/proDeveloperGuru/smartid/internal/utils"
 )
 
 const (

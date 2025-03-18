@@ -5,8 +5,8 @@ import (
 	"encoding/base64"
 	"strings"
 
-	"github.com/prodeveloperguru/smartid/internal/errors"
-	"github.com/prodeveloperguru/smartid/internal/identity"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/identity"
 )
 
 type Person struct {

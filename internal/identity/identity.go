@@ -3,7 +3,7 @@ package identity
 import (
 	"regexp"
 
-	"github.com/prodeveloperguru/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
 )
 
 // https://github.com/SK-EID/smart-id-documentation#2322-etsisemantics-identifier
