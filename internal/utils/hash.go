@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/tab/smartid/internal/errors"
+	"github.com/prodeveloperguru/smartid/internal/errors"
 )
 
 const (

@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/tab/smartid/internal/certificates"
-	"github.com/tab/smartid/internal/errors"
+	"github.com/prodeveloperguru/smartid/internal/certificates"
+	"github.com/prodeveloperguru/smartid/internal/errors"
 )
 
 func Test_NewCertificateManager(t *testing.T) {

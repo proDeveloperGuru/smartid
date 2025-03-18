@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tab/smartid"
+	"github.com/prodeveloperguru/smartid"
 )
 
 func main() {

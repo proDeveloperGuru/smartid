@@ -10,10 +10,10 @@ import (
 
 	"github.com/go-resty/resty/v2"
 
-	"github.com/tab/smartid/internal/config"
-	"github.com/tab/smartid/internal/errors"
-	"github.com/tab/smartid/internal/models"
-	"github.com/tab/smartid/internal/utils"
+	"github.com/prodeveloperguru/smartid/internal/config"
+	"github.com/prodeveloperguru/smartid/internal/errors"
+	"github.com/prodeveloperguru/smartid/internal/models"
+	"github.com/prodeveloperguru/smartid/internal/utils"
 )
 
 const (

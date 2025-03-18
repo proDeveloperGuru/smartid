@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [v0.3.0](https://github.com/tab/smartid/releases/tag/v0.3.0)
+## [v0.3.0](https://github.com/prodeveloperguru/smartid/releases/tag/v0.3.0)
 
 ### Refactor
 - **refactor(client):** Refactor display text methods for PIN interactions
@@ -8,12 +8,12 @@
 ### Bug Fixes
 - **fix(requests):** Add timeoutMs for FetchAuthenticationSession method
 
-## [v0.2.1](https://github.com/tab/smartid/releases/tag/v0.2.1)
+## [v0.2.1](https://github.com/prodeveloperguru/smartid/releases/tag/v0.2.1)
 
 ### Bug Fixes
 - **fix(tls):** Rename certificate pinner to certificate manager
 
-## [v0.2.0](https://github.com/tab/smartid/releases/tag/v0.2.0)
+## [v0.2.0](https://github.com/prodeveloperguru/smartid/releases/tag/v0.2.0)
 
 ### Features
 - **feat(tls):** Add certificate pinning support in the Smart-ID client using TLS configuration
@@ -29,7 +29,7 @@
 - **chore(workflow):** Add workflow permissions
 - **chore(codecov):** Update ignore patterns in codecov.yaml
 
-## [v0.1.1](https://github.com/tab/smartid/releases/tag/v0.1.1)
+## [v0.1.1](https://github.com/prodeveloperguru/smartid/releases/tag/v0.1.1)
 
 ### Refactor
 - **refactor(models):** Rename AuthenticationSessionRequest to AuthenticationRequest
@@ -40,7 +40,7 @@
 ### CI
 - **ci(workflow):** Add Codecov workflow for master branch
 
-## [v0.1.0](https://github.com/tab/smartid/releases/tag/v0.1.0)
+## [v0.1.0](https://github.com/prodeveloperguru/smartid/releases/tag/v0.1.0)
 
 ### Features
 - **feat(client):** Add identity to client using new Identity type for authentication

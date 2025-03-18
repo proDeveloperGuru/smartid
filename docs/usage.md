@@ -12,7 +12,7 @@ import (
   "log"
   "time"
 
-  "github.com/tab/smartid"
+  "github.com/prodeveloperguru/smartid"
 )
 
 func main() {
@@ -108,7 +108,7 @@ import (
   "sync"
   "time"
 
-  "github.com/tab/smartid"
+  "github.com/prodeveloperguru/smartid"
 )
 
 func main() {
@@ -178,7 +178,7 @@ import (
   "sync"
   "time"
 
-  "github.com/tab/smartid"
+  "github.com/prodeveloperguru/smartid"
 )
 
 func main() {
@@ -214,7 +214,7 @@ package main
 import (
   "fmt"
 
-  "github.com/tab/smartid"
+  "github.com/prodeveloperguru/smartid"
 )
 
 func main() {

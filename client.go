@@ -5,10 +5,10 @@ import (
 	"crypto/tls"
 	"time"
 
-	"github.com/tab/smartid/internal/config"
-	"github.com/tab/smartid/internal/errors"
-	"github.com/tab/smartid/internal/requests"
-	"github.com/tab/smartid/internal/utils"
+	"github.com/prodeveloperguru/smartid/internal/config"
+	"github.com/prodeveloperguru/smartid/internal/errors"
+	"github.com/prodeveloperguru/smartid/internal/requests"
+	"github.com/prodeveloperguru/smartid/internal/utils"
 )
 
 const (

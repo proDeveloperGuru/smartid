@@ -10,9 +10,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/tab/smartid/internal/config"
-	"github.com/tab/smartid/internal/errors"
-	"github.com/tab/smartid/internal/models"
+	"github.com/prodeveloperguru/smartid/internal/config"
+	"github.com/prodeveloperguru/smartid/internal/errors"
+	"github.com/prodeveloperguru/smartid/internal/models"
 )
 
 func Test_CreateAuthenticationSession_Body(t *testing.T) {

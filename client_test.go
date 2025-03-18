@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/tab/smartid/internal/config"
-	"github.com/tab/smartid/internal/errors"
+	"github.com/prodeveloperguru/smartid/internal/config"
+	"github.com/prodeveloperguru/smartid/internal/errors"
 )
 
 func Test_NewClient(t *testing.T) {

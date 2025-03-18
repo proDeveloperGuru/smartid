@@ -3,8 +3,8 @@ site_url: https://tab.github.io/smartid
 site_author: tab
 site_description: Golang client for the Smart-ID API
 
-repo_name: tab/smartid
-repo_url: https://github.com/tab/smartid
+repo_name: prodeveloperguru/smartid
+repo_url: https://github.com/prodeveloperguru/smartid
 
 nav:
   - Home: index.md
