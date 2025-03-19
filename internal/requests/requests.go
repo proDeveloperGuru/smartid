@@ -10,10 +10,10 @@ import (
 
 	"github.com/go-resty/resty/v2"
 
-	"github.com/tab/smartid/internal/config"
-	"github.com/tab/smartid/internal/errors"
-	"github.com/tab/smartid/internal/models"
-	"github.com/tab/smartid/internal/utils"
+	"github.com/proDeveloperGuru/smartid/internal/config"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/models"
+	"github.com/proDeveloperGuru/smartid/internal/utils"
 )
 
 const (
@@ -101,7 +101,7 @@ func CreateAuthenticationSession(
 		}, nil
 	case http.StatusForbidden:
 		return nil, errors.ErrSmartIdAccessForbidden
-	case StatusNoSuitableAccount:
+	case StatusNoSuitableAccount, http.StatusNotFound:
 		return nil, errors.ErrSmartIdNoSuitableAccount
 	case StatusViewSmartIdApp:
 		return nil, errors.ErrSmartIdViewApp

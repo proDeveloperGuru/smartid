@@ -6,8 +6,8 @@ import (
 	"crypto/x509"
 	"encoding/base64"
 
-	"github.com/tab/smartid/internal/certificates"
-	"github.com/tab/smartid/internal/errors"
+	"github.com/proDeveloperGuru/smartid/internal/certificates"
+	"github.com/proDeveloperGuru/smartid/internal/errors"
 )
 
 type Manager struct {

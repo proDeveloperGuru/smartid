@@ -3,7 +3,7 @@ package smartid
 import (
 	"fmt"
 
-	"github.com/tab/smartid/internal/identity"
+	"github.com/proDeveloperGuru/smartid/internal/identity"
 )
 
 // https://github.com/SK-EID/smart-id-documentation#2322-etsisemantics-identifier

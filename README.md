@@ -14,7 +14,7 @@ It is a simple wrapper around the API, which helps easily integrate Smart-ID aut
 Use `go get` to install the package
 
 ```sh
-go get -u github.com/tab/smartid
+go get -u github.com/proDeveloperGuru/smartid
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ import (
   "log"
   "time"
 
-  "github.com/tab/smartid"
+  "github.com/proDeveloperGuru/smartid"
 )
 
 func main() {
@@ -104,7 +104,7 @@ import (
   "sync"
   "time"
 
-  "github.com/tab/smartid"
+  "github.com/proDeveloperGuru/smartid"
 )
 
 func main() {
@@ -174,7 +174,7 @@ import (
   "sync"
   "time"
 
-  "github.com/tab/smartid"
+  "github.com/proDeveloperGuru/smartid"
 )
 
 func main() {
@@ -210,7 +210,7 @@ package main
 import (
   "fmt"
 
-  "github.com/tab/smartid"
+  "github.com/proDeveloperGuru/smartid"
 )
 
 func main() {
@@ -222,7 +222,7 @@ func main() {
 ## Documentation
 
 - [Documentation](https://tab.github.io/smartid)
-- [GoDoc](https://pkg.go.dev/github.com/tab/smartid)
+- [GoDoc](https://pkg.go.dev/github.com/proDeveloperGuru/smartid)
 - [Smart-ID Documentation](https://github.com/SK-EID/smart-id-documentation)
 
 ## License

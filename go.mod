@@ -1,4 +1,4 @@
-module github.com/tab/smartid
+module github.com/proDeveloperGuru/smartid
 
 go 1.23
 
@@ -13,4 +13,8 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
+
+retract (
+    v0.1.2 // Security vulnerability discovered.
 )
