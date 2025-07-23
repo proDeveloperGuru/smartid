@@ -36,8 +36,8 @@ func Extract(encodedCert string) (*Person, error) {
 	if err != nil {
 		return nil, err
 	}
-	firstName := strings.TrimSpace(parts[0])
-	lastName := strings.TrimSpace(parts[1])
+	firstName := strings.TrimSpace(parts[1])
+	lastName := strings.TrimSpace(parts[0])
 
 	return &Person{
 		IdentityNumber: cert.Subject.SerialNumber,
